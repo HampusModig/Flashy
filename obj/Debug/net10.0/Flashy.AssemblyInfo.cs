@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Flashy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74087ce9468840d117a798e0ed160f18846fa531")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee37f11a5d67eeb1a7cd0ea32056e82b7090d797")]
 [assembly: System.Reflection.AssemblyProductAttribute("Flashy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Flashy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
