@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\Flashy\\Flashy.csproj": {}
+    "C:\\Users\\NoshinShukri\\Desktop\\Flashy\\Flashy\\Flashy.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\Flashy\\Flashy.csproj": {
+    "C:\\Users\\NoshinShukri\\Desktop\\Flashy\\Flashy\\Flashy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\Flashy\\Flashy.csproj",
+        "projectUniqueName": "C:\\Users\\NoshinShukri\\Desktop\\Flashy\\Flashy\\Flashy.csproj",
         "projectName": "Flashy",
-        "projectPath": "C:\\Repos\\Flashy\\Flashy.csproj",
-        "packagesPath": "C:\\Users\\hampu\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\Flashy\\obj\\",
+        "projectPath": "C:\\Users\\NoshinShukri\\Desktop\\Flashy\\Flashy\\Flashy.csproj",
+        "packagesPath": "C:\\Users\\NoshinShukri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NoshinShukri\\Desktop\\Flashy\\Flashy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hampu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NoshinShukri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -54,7 +54,7 @@
             "Microsoft.AspNetCore.App.Internal.Assets": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.3, )",
+              "version": "[10.0.2, )",
               "autoReferenced": true
             }
           },
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

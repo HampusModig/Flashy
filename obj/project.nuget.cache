@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zlQ6Hubj0Kc=",
+  "dgSpecHash": "EXOvE5mdtY8=",
   "success": true,
-  "projectFilePath": "C:\\Repos\\Flashy\\Flashy.csproj",
+  "projectFilePath": "C:\\Users\\NoshinShukri\\Desktop\\Flashy\\Flashy\\Flashy.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hampu\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.3\\microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512"
+    "C:\\Users\\NoshinShukri\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.2\\microsoft.aspnetcore.app.internal.assets.10.0.2.nupkg.sha512"
   ],
   "logs": []
 }
