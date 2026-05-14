@@ -1,13 +1,17 @@
 @page "/study-flashcards"
+@inject FlashcardService FlashcardService
 
 <PageTitle>Study Flashcards</PageTitle>
 <h1>Study Flashcards</h1>
 
-<div class="card mb-3">
-    <div class="card-body">
-        <h5 class="card-title">What is the capital of France?</h5>
-        <p class="card-text">Paris</p>
+@foreach (var flashcard in FlashcardService.Flashcards)
+{
+    <div class="card mb-3">
+        <div class="card-body">
+            <h5 class="card-title">@flashcard.Question</h5>
+            <p class="card-text">@flashcard.Answer</p>
+        </div>
     </div>
-</div>
+}
 
 <Buttons />
